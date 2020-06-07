@@ -1,0 +1,178 @@
+﻿{
+  "application": [
+    {
+      "id": 1,
+      "name": "4 Pics 1 Word",
+      "playStore": "com.kubilay.fourpictures",
+      "english": true,
+      "descriptions": [
+        {
+          "language": "en",
+          "name": "4 Pics 1 Word - Guess The Word",
+          "description": "Do you like word puzzle games?",
+          "image": "https://lh3.googleusercontent.com/vL2WRihUokqWAPrLdNDRn1CVAXOq88zo78pWwhksL8OsEFVBoApG_6I-EkSA_JjlXdbe"
+        },
+        {
+          "language": "de",
+          "name": "4 Bilder 1 Wort - Rate das Wort",
+          "description": "Magst du Worträtselspiele?",
+          "image": "https://lh3.googleusercontent.com/OOGHrj7mxGI3R146vQFs6_7gdzWLzZET2VS6b95kRN-jqiv_wOtalYCSC53MIZMTKQ"
+        },
+        {
+          "language": "cs",
+          "name": "4 Fotky 1 Slovo - Uhodni Slovo",
+          "description": "Máte rádi slovní logické hry?",
+          "image": "https://lh3.googleusercontent.com/OwhFGBiUFfYELSRtM2vkNroljoUoorCJI0vWytYl_2hor0wioNOG2h_OG1m-KF9eJk4"
+        },
+        {
+          "language": "da",
+          "name": "4 Billeder 1 Ord - Gæt Ord",
+          "description": "Kan du lide ordspilspil?",
+          "image": "https://lh3.googleusercontent.com/dCNFozfc2n1B_Hz8tXas_DW5HNt2hZZUcDxtxiO1KK_DZqjd9rXU7psO2pO18AzvmO2X"
+        },
+        {
+          "language": "nl",
+          "name": "4 Foto's 1 Woord - Raad het woord",
+          "description": "Ben je dol op woordpuzzel games?",
+          "image": "https://lh3.googleusercontent.com/PVCWVl2EZRWj09RkvROgRe5L3Fh8_yRGGZ3xavP_uL0jm6mJYs8ExShcogS6oYIziQ"
+        },
+        {
+          "language": "fi",
+          "name": "4 Kuvaa 1 Sana - Arvaa Sana",
+          "description": "Pidätkö sanan pulmapeleistä?",
+          "image": "https://lh3.googleusercontent.com/2_Ao0qSf6DFhRRhnt30VPS4Su8mL3aHjpgsizqabsPzpyJaVmx0a1dywRIDplOPyi8o"
+        },
+        {
+          "language": "fr",
+          "name": "4 Images 1 Mot - Devine le mot",
+          "description": "Aimez-vous les jeux de mots ?",
+          "image": "https://lh3.googleusercontent.com/6LfWPYb7Uk0E7AKTvHHwWu6Xy8yz3sxbmwlAQqQg2CSAQrn1_qdrwyRFKTMKzLOKdCpE"
+        },
+        {
+          "language": "es",
+          "name": "4 Fotos 1 Palabra - Adivina la palabra",
+          "description": "¿Te gustan los juegos de palabras?",
+          "image": "https://lh3.googleusercontent.com/olxGEeAHLVdN_ZLwtS0r9PNDHSWgU3bJOM6cZa2MjPmEJrf1jINmrYzrLRyJoaVMDAjq"
+        },
+        {
+          "language": "sv",
+          "name": "4 Bilder 1 Ord - Gissa Ord",
+          "description": "Gillar du ordpusselspel?",
+          "image": "https://lh3.googleusercontent.com/Rnp_sThXGoAOjvuuUIh1pvBdRFoAD7ikIx5wVsZSix5bxaJGL2bqRR27K1lbxNRuvw"
+        },
+        {
+          "language": "it",
+          "name": "4 Foto 1 Parola - Indovina la parola",
+          "description": "Ti piacciono i giochi di puzzle di parole?",
+          "image": "https://lh3.googleusercontent.com/EcogJZLKYCtZCuyEaOiIi4-LDxp0AEv9Ib6-xL_y05psUrTWy3Z8XgXqLBR7t9_nom8"
+        },
+        {
+          "language": "pl",
+          "name": "4 Zdjęcia 1 Słowo - Zgadnij słowo",
+          "description": "Czy lubisz gry puzzle?",
+          "image": "https://lh3.googleusercontent.com/2BceLkKMuQEcrmm6BxN2p-nRpDKBqq_IxqTo6-7gS3x745PXmSJc2Fv2TBOGPaKmiNoZ"
+        },
+        {
+          "language": "hu",
+          "name": "4 Kép 1 Szót - Kitalálni a szót",
+          "description": "Tetszik szó puzzle játékok?",
+          "image": "https://lh3.googleusercontent.com/-rbKZh-HOESJZukcLLFVgKb-DdsRSd-kl50NXpeFlEoeFhHDW1PrFy4SGAJH4AALl2A"
+        },
+        {
+          "language": "no",
+          "name": "4 Bilder 1 Ord - Gjett ord",
+          "description": "Liker du puslespill?",
+          "image": "https://lh3.googleusercontent.com/IzbKpztnU6KGhU68drkvZTSU9E6hAE7xJXjNDm8YbmV5lB9PSj0SWmUZIqNeRoiINUaM"
+        },
+        {
+          "language": "pt",
+          "name": "4 Fotos 1 Palavra - Adivinhe a palavra",
+          "description": "Você gosta de jogos de quebra-cabeça de palavras?",
+          "image": "https://lh3.googleusercontent.com/CGa0eyd7F6tewYEQJXLIF0Xd5OPsh5SZf5mdcbWI43XCp2W0cC6IbC0ICtQbsE3LqQJd"
+        },
+        {
+          "language": "ru",
+          "name": "4 фото 1 слово - Угадай слово",
+          "description": "Вам нравятся игры в слова?",
+          "image": "https://lh3.googleusercontent.com/9poebjvsddvrPNe9_0-MTtVNM0qflrSh-BsRvyQPMuzQvdVEH68ULuwDtJeFR3Y22vY"
+        },
+        {
+          "language": "tr",
+          "name": "4 Resim 1 Kelime - Kelime bulmaca oyunu",
+          "description": "Kelime bulmaca oyunlarını sever misiniz?",
+          "image": "https://lh3.googleusercontent.com/EBiKNEoz8Qy6AhxjHcEHBuEE9bLaZwvO3Bc2yoxJNEbZ8ZwbPi4Kago6_cQOlX_V5ZE"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Taboo World",
+      "playStore": "com.kubilay.taboo",
+      "english": true,
+      "descriptions": [
+        {
+          "language": "en",
+          "name": "Taboo World - English",
+          "description": "A fun taboo game that you can easily play with your friends.",
+          "image": "https://lh3.googleusercontent.com/KCyGKb7J3cyWzkm4w4vxTJgvbuvE4DGVquIA8UwEy_b-aOVkH2_sJBmrobkBfVNBwIY"
+        },
+        {
+          "language": "de",
+          "name": "Tabu World - Deutsch",
+          "description": "Ein lustiges Tabuspiel, das Sie ganz einfach mit Ihren Freunden spielen können.",
+          "image": "https://lh3.googleusercontent.com/KCyGKb7J3cyWzkm4w4vxTJgvbuvE4DGVquIA8UwEy_b-aOVkH2_sJBmrobkBfVNBwIY"
+        },
+        {
+          "language": "fr",
+          "name": "Tabou World - Français",
+          "description": "Un jeu tabou amusant que vous pouvez facilement jouer avec vos amis.",
+          "image": "https://lh3.googleusercontent.com/KCyGKb7J3cyWzkm4w4vxTJgvbuvE4DGVquIA8UwEy_b-aOVkH2_sJBmrobkBfVNBwIY"
+        },
+        {
+          "language": "es",
+          "name": "Tabú World - Español",
+          "description": "Un divertido juego de tabú que puedes jugar fácilmente con tus amigos.",
+          "image": "https://lh3.googleusercontent.com/KCyGKb7J3cyWzkm4w4vxTJgvbuvE4DGVquIA8UwEy_b-aOVkH2_sJBmrobkBfVNBwIY"
+        },
+        {
+          "language": "it",
+          "name": "Tabù World - Italiano",
+          "description": "Un divertente gioco di tabù che si può facilmente giocare con i tuoi amici.",
+          "image": "https://lh3.googleusercontent.com/KCyGKb7J3cyWzkm4w4vxTJgvbuvE4DGVquIA8UwEy_b-aOVkH2_sJBmrobkBfVNBwIY"
+        },
+        {
+          "language": "pl",
+          "name": "Tabu World - Język polski",
+          "description": "Zabawa tabu gra, którą można łatwo grać z rodziną lub przyjaciółmi.",
+          "image": "https://lh3.googleusercontent.com/KCyGKb7J3cyWzkm4w4vxTJgvbuvE4DGVquIA8UwEy_b-aOVkH2_sJBmrobkBfVNBwIY"
+        },
+        {
+          "language": "pt",
+          "name": "Tabu World - Português",
+          "description": "Um divertido jogo de tabu que você pode facilmente jogar com seus amigos.",
+          "image": "https://lh3.googleusercontent.com/KCyGKb7J3cyWzkm4w4vxTJgvbuvE4DGVquIA8UwEy_b-aOVkH2_sJBmrobkBfVNBwIY"
+        },
+        {
+          "language": "tr",
+          "name": "Tabu World - Yasak kelime oyunu",
+          "description": "Arkadaşlarınızla beraber rahatlıkla oynayabileceğiniz eğlenceli bir Tabu oyunu.",
+          "image": "https://lh3.googleusercontent.com/KCyGKb7J3cyWzkm4w4vxTJgvbuvE4DGVquIA8UwEy_b-aOVkH2_sJBmrobkBfVNBwIY"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Emoji Tahmin Et",
+      "playStore": "com.kubilay.emojitahmin",
+      "english": false,
+      "descriptions": [
+        {
+          "language": "tr",
+          "name": "Emoji Tahmin Et",
+          "description": "Emoji gösteren bir ekran var, bu emojilerin açıklamasını tahmin edebilir misin?",
+          "image": "https://lh3.googleusercontent.com/ffcyJ3kdclGe19d1XLB5Baugveb4fgQOyw396A_k8wyK4knutw3UFL9gj-vhk4RH8h8"
+        }
+      ]
+    }
+  ]
+}
