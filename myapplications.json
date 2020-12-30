@@ -173,6 +173,80 @@
           "image": "https://lh3.googleusercontent.com/ffcyJ3kdclGe19d1XLB5Baugveb4fgQOyw396A_k8wyK4knutw3UFL9gj-vhk4RH8h8"
         }
       ]
+    },
+    {
+      "id": 4,
+      "name": "Logo Quiz",
+      "playStore": "com.kubilay.logoquiz",
+      "english": true,
+      "descriptions": [
+        {
+          "language": "en",
+          "name": "Logo Quiz",
+          "description": "Logo Quiz is a free trivia app where you guess the brands names of thousands of logos from popular companies.",
+          "image": "https://play-lh.googleusercontent.com/mrJrLitMf4eK78ywBNrLZayzxfHcO1xBBx9IliGKEZzf2aKcbmeU7nDepbG2yueDnDU"
+        },
+        {
+          "language": "de",
+          "name": "Logo Quiz",
+          "description": "Logos Quiz ist ein kostenloses, unterhaltsames Spiel, bei dem man die Firmenzeichen weltberühmter Marken errät!",
+          "image": "https://play-lh.googleusercontent.com/mrJrLitMf4eK78ywBNrLZayzxfHcO1xBBx9IliGKEZzf2aKcbmeU7nDepbG2yueDnDU"
+        },
+        {
+          "language": "fr",
+          "name": "Logo Quiz",
+          "description": "Logos Quiz est un jeu gratuit très amusant qui consiste à deviner les noms de centaines de logos de différentes entreprises.",
+          "image": "https://play-lh.googleusercontent.com/mrJrLitMf4eK78ywBNrLZayzxfHcO1xBBx9IliGKEZzf2aKcbmeU7nDepbG2yueDnDU"
+        },
+        {
+          "language": "es",
+          "name": "Logo Quiz",
+          "description": "Logos Quiz es un juego gratuito lleno de diversión que consiste en adivinar el nombre de cientos de logotipos de diferentes compañias y empresas.",
+          "image": "https://play-lh.googleusercontent.com/mrJrLitMf4eK78ywBNrLZayzxfHcO1xBBx9IliGKEZzf2aKcbmeU7nDepbG2yueDnDU"
+        },
+        {
+          "language": "it",
+          "name": "Logo Quiz",
+          "description": "Indovina i loghi di famose aziende di tutto il mondo!",
+          "image": "https://play-lh.googleusercontent.com/mrJrLitMf4eK78ywBNrLZayzxfHcO1xBBx9IliGKEZzf2aKcbmeU7nDepbG2yueDnDU"
+        },
+        {
+          "language": "hu",
+          "name": "Logo Quiz",
+          "description": "A Logo Quiz egy ingyenes játék, amelyben több ezer híres vállalat logóját kell kitalálni.",
+          "image": "https://play-lh.googleusercontent.com/mrJrLitMf4eK78ywBNrLZayzxfHcO1xBBx9IliGKEZzf2aKcbmeU7nDepbG2yueDnDU"
+        },
+        {
+          "language": "pl",
+          "name": "Logo Quiz",
+          "description": "Odgaduj loga popularnych firm z całego świata!",
+          "image": "https://play-lh.googleusercontent.com/mrJrLitMf4eK78ywBNrLZayzxfHcO1xBBx9IliGKEZzf2aKcbmeU7nDepbG2yueDnDU"
+        },
+        {
+          "language": "pt",
+          "name": "Logo Quiz",
+          "description": "O Logo Quiz é um jogo gratuito no qual você adivinha os nomes de milhares de logotipos de empresas famosas.",
+          "image": "https://play-lh.googleusercontent.com/mrJrLitMf4eK78ywBNrLZayzxfHcO1xBBx9IliGKEZzf2aKcbmeU7nDepbG2yueDnDU"
+        },
+        {
+          "language": "no",
+          "name": "Logo Quiz",
+          "description": "Gjette på logoer av populære selskaper fra hele verden!",
+          "image": "https://play-lh.googleusercontent.com/mrJrLitMf4eK78ywBNrLZayzxfHcO1xBBx9IliGKEZzf2aKcbmeU7nDepbG2yueDnDU"
+        },
+        {
+          "language": "ru",
+          "name": "Logo Quiz",
+          "description": "Угадайте, на логотипы популярных компаний со всего мира!",
+          "image": "https://play-lh.googleusercontent.com/mrJrLitMf4eK78ywBNrLZayzxfHcO1xBBx9IliGKEZzf2aKcbmeU7nDepbG2yueDnDU"
+        },
+        {
+          "language": "tr",
+          "name": "Logo Quiz",
+          "description": "Logo Quiz, popüler şirketlere ait binlerce logonun marka adlarını tahmin ettiğiniz ücretsiz bir bilgi uygulamasıdır.",
+          "image": "https://play-lh.googleusercontent.com/mrJrLitMf4eK78ywBNrLZayzxfHcO1xBBx9IliGKEZzf2aKcbmeU7nDepbG2yueDnDU"
+        }
+      ]
     }
   ]
 }
