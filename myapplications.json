@@ -106,55 +106,55 @@
     },
     {
       "id": 2,
-      "name": "Forbidden Words - Party game",
+      "name": "Taboo World",
       "playStore": "com.kubilay.forbiddenwordsgame",
       "english": true,
       "descriptions": [
         {
           "language": "en",
-          "name": "Forbidden Words - Party game",
+          "name": "Taboo World - English",
           "description": "A fun game that you can easily play with your friends.",
           "image": "https://lh3.googleusercontent.com/NvpbeVMXVeO1nf93m8QO7eDYinHaQn7dnjWDZNnE9Am9qGfiATQbg-WUeOxVDbbRnAc"
         },
         {
           "language": "de",
-          "name": "Forbidden Words - Party-spiel",
+          "name": "Tabu World - Deutsch",
           "description": "Ein lustiges spiel, das Sie ganz einfach mit Ihren Freunden spielen können.",
           "image": "https://lh3.googleusercontent.com/NvpbeVMXVeO1nf93m8QO7eDYinHaQn7dnjWDZNnE9Am9qGfiATQbg-WUeOxVDbbRnAc"
         },
         {
           "language": "fr",
-          "name": "Forbidden Words - Jeu de fête",
+          "name": "Tabou World - Français",
           "description": "Un jeu amusant que vous pouvez facilement jouer avec vos amis.",
           "image": "https://lh3.googleusercontent.com/NvpbeVMXVeO1nf93m8QO7eDYinHaQn7dnjWDZNnE9Am9qGfiATQbg-WUeOxVDbbRnAc"
         },
         {
           "language": "es",
-          "name": "Forbidden Words - Juego social",
+          "name": "Tabú World - Español",
           "description": "Un divertido juego de que puedes jugar fácilmente con tus amigos.",
           "image": "https://lh3.googleusercontent.com/NvpbeVMXVeO1nf93m8QO7eDYinHaQn7dnjWDZNnE9Am9qGfiATQbg-WUeOxVDbbRnAc"
         },
         {
           "language": "it",
-          "name": "Forbidden Words - Gioco social",
+          "name": "Tabù World - Italiano",
           "description": "Un divertente gioco di che si può facilmente giocare con i tuoi amici.",
           "image": "https://lh3.googleusercontent.com/NvpbeVMXVeO1nf93m8QO7eDYinHaQn7dnjWDZNnE9Am9qGfiATQbg-WUeOxVDbbRnAc"
         },
         {
           "language": "pl",
-          "name": "Forbidden Words - Gra imprezowa",
+          "name": "Tabu World - Język polski",
           "description": "Zabawa gra, którą można łatwo grać z rodziną lub przyjaciółmi.",
           "image": "https://lh3.googleusercontent.com/NvpbeVMXVeO1nf93m8QO7eDYinHaQn7dnjWDZNnE9Am9qGfiATQbg-WUeOxVDbbRnAc"
         },
         {
           "language": "pt",
-          "name": "Forbidden Words - Jogo de festa",
+          "name": "Tabu World - Português",
           "description": "Um divertido jogo de que você pode facilmente jogar com seus amigos.",
           "image": "https://lh3.googleusercontent.com/NvpbeVMXVeO1nf93m8QO7eDYinHaQn7dnjWDZNnE9Am9qGfiATQbg-WUeOxVDbbRnAc"
         },
         {
           "language": "tr",
-          "name": "Yasak Kelime - Parti Oyunu",
+          "name": "Tabu World - Yasak kelime oyunu",
           "description": "Arkadaşlarınızla beraber rahatlıkla oynayabileceğiniz eğlenceli bir oyun.",
           "image": "https://lh3.googleusercontent.com/NvpbeVMXVeO1nf93m8QO7eDYinHaQn7dnjWDZNnE9Am9qGfiATQbg-WUeOxVDbbRnAc"
         }
